@@ -1,0 +1,13 @@
+1 1 1 1 1 1 1 1 1 1 bags of coins where each coins 10grms
+
+
+10grms * (1 coins/each) 100
+
+100 grm per bag * 10  = 1000gram
+
+
+
+
+
+
+
